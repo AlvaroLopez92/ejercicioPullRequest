@@ -6,7 +6,7 @@
 package ejerciciopullrequest;
 
 /**
- *
+ * Ejercicio para repasar el Pull Request
  * @author damian
  */
 public class EjercicioPullRequest {
@@ -16,6 +16,7 @@ public class EjercicioPullRequest {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
     }
     
 }
